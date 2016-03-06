@@ -1,4 +1,5 @@
 ##WHEN##
+A basic library to create any request to a promise callback.
 
 ###Usage###
 
